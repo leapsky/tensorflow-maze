@@ -9,7 +9,7 @@ Install the [Cozmo SDK](http://cozmosdk.anki.com/docs/)
 ```bash
 virtualenv ~/.env/cozmo -p python3
 source ~/.env/cozmo/bin/activate
-git clone https://www.github.com/whatrocks/cozmo-tensorflow
+git clone https://github.com/leapsky/tensorflow-maze.git
 cd cozmo-tensorflow
 pip install -r requirements.txt
 ```
